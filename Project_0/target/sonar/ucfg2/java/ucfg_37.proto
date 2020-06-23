@@ -1,0 +1,132 @@
+
+6com.ex.Objects.Animals#toStringAll()Ljava/lang/String;Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java> >("1*∂
+1Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? ?(†
+ù
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? @(
+%0java.lang.String"__concat*
+
+Animals{*
+animalName='®
+•
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java@! @(+
+%1java.lang.String"__id***(
+com.ex.Objects.Animals"
+
+animalName¥
+±
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? @(+
+%2java.lang.String"__concat*
+
+%0java.lang.String*
+
+%1java.lang.String¢
+ü
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? @(2
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+""Æ
+´
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? A( 
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+, animalType='®
+•
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.javaA# A(-
+%5java.lang.String"__id***(
+com.ex.Objects.Animals"
+
+animalType¥
+±
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? A(-
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String¢
+ü
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? A(4
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+""ß
+§
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? B(
+%8java.lang.String"__concat*
+
+%7java.lang.String*	
+, sex='°
+û
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.javaB B(
+%9java.lang.String"__id*#*!
+com.ex.Objects.Animals"
+sexµ
+≤
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? B(
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.String§
+°
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? B(&
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+""®
+•
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? C(
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+
+, age=§
+°
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? C(
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+""Æ
+´
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? D(
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+, enclosure=§
+°
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? D(*
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+""§
+°
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? E(
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+"""v
+Y
+OD:/Revature/2004-apr06-java/Project_0/src/main/java/com/ex/Objects/Animals.java? E(
+
+%16java.lang.StringB
+com.ex.Objects.Animals
